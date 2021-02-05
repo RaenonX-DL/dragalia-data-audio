@@ -1,8 +1,15 @@
 # dragalia-data-audio
 
+[![Audio-latest-tag]][Audio-tags]
+![Audio-size]
+
 This repository stores all Dragalia Lost audio files.
 
 The data may not be up-to-date, due to the fact that the data will be handled manually.
+
+[Audio-size]: https://img.shields.io/github/repo-size/RaenonX-DL/dragalia-data-audio
+[Audio-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-data-audio?label=Manifest%20version
+[Audio-tags]: https://github.com/RaenonX-DL/dragalia-data-audio/tags
 
 -------
 
